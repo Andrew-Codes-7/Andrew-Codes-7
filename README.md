@@ -1,4 +1,4 @@
-<h2>A little bit about myself...</h2>
+<h2>👋 A little bit about myself...</h2>
 
 Name: Andrew Vigil</br>
 Location: Washington State</br>
